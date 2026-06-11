@@ -6,35 +6,70 @@
 
 ---
 
-## 💻 Languages I Use
 
+# 💻 Languages I Use
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java" /><br />Java</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/nodejs.png" title="Node.js" /><br />NodeJS</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB" /><br />MongoDB</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL" /><br />MySQL</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML5" /><br />HTML5</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3" /><br />CSS3</td>
+    <td align="center"><img src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript" /><br />JS</td>
+    
+  </tr>
+</table>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+-----
+# 🛠 Tools I Use
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="VS Code" /><br />
+      VS Code
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB Compass" /><br />
+      MongoDB
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/chatgpt.png" title="ChatGPT" /><br />
+      ChatGPT
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" title="DeepSeek" /><br />
+      DeepSeek
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/dusk/48/postman-api.png" title="Postman" /><br />
+      Postman
+    </td>
+    
 
----
+  </tr>
+  <tr>
+        <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL Workbench" /><br />
+      MySQL
+    </td>
+    <table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/arduino.png" title="Arduino" /><br />
+      Arduino IDE
+    </td>
+    <td align="center">
+      <img src="https://cdn.worldvectorlogo.com/logos/anthropic.svg" title="Claude" width="48" height="48" /><br />
+      Claude
+    </td>
+    <td align="center">
+      <img src="https://cdn.worldvectorlogo.com/logos/n8n.svg" title="n8n" width="48" height="48" /><br />
+      n8n
+    </td>
+  </tr>
 
-## 🛠️ Tools I Use
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Claude](https://img.shields.io/badge/Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
-![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?style=flat-square&logo=arduino&logoColor=white)
-
-
----
+</table>
 
 ## 📱 Socials
 
@@ -45,8 +80,12 @@
 
 ## 📊 GitHub Stats
 
-![Vaitheeswaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaitheeswaran02&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaitheeswaran02&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vaitheeawaran02&show_icons=true&theme=github_dark" width="45%" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaitheeswaran02&layout=compact&theme=github_dark" width="34%" />
+</p>
+
 ---
 
 ## ## ⚡ Currently Focused On
