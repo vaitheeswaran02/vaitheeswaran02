@@ -33,20 +33,16 @@
       VS Code
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/android-studio.png" title="Android Studio" /><br />
-      Android Studio
-    </td>
-    <td align="center">
       <img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB Compass" /><br />
       MongoDB
     </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/chatgpt.png" title="ChatGPT" /><br />
-      ChatGPT
-    </td>
-    <td align="center">
+   <td align="center">
       <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" title="DeepSeek" /><br />
       DeepSeek
+    </td>
+     <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/chatgpt.png" title="ChatGPT" /><br />
+      ChatGPT
     </td>
     <td align="center">
       <img src="https://img.icons8.com/dusk/48/postman-api.png" title="Postman" /><br />
@@ -60,26 +56,12 @@
       <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL Workbench" /><br />
       MySQL
     </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/firebase.png" title="Firebase" /><br />
-      Firebase
-    </td>
         <td align="center">
       <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" title="AWS" /><br />
       AWS
     </td>
-        <td align="center">
-      <img src="https://img.icons8.com/color/48/000000/google-cloud.png" title="Google Cloud" /><br />
-      Google Cloud
-    </td>
-      <td align="center">
-  <img src="https://img.icons8.com/color/48/google-play.png" title="Google Play Console" />
-  <br />Play Console
-</td>
         <td align="center"><img src="https://img.icons8.com/color/48/000000/ubuntu.png" title="Ubuntu" /><br />Ubuntu</td>
-      </td>
-        <td align="center"><img src="https://img.icons8.com/color/48/debian.png" title="Debian" /><br />Debian Server</td>
-  </tr>
+    
 
 </table>
 
@@ -87,31 +69,24 @@
 ---
 
 ## 🌐 Socials:
-<a href="https://linkedin.com/in/ragavandevp">
+<a href="https://linkedin.com/in/vaitheeswaran02">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width="100"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://ragavan.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white" width="100"/>
 </a>
 
 
 --- 
 ## 📊 Commits Activity Graph: 
 
-![Commits](https://github-readme-activity-graph.vercel.app/graph?username=ragavanperarasu&theme=github-dark)
+![Commits](https://github-readme-activity-graph.vercel.app/graph?username=vaiteeswaran02&theme=github-dark)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ragavanperarasu&show_icons=true&theme=github_dark" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vaitheeswaran02&show_icons=true&theme=github_dark" width="45%" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragavanperarasu&layout=compact&theme=github_dark" width="34%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaitheeswaran02&layout=compact&theme=github_dark" width="34%" />
 </p>
 
 ---
-
-
-<!-- Profile README created with ❤️ -->
