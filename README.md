@@ -18,7 +18,7 @@
     <td align="center"><img src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript" /><br />JS</td>
     <td align="center"><img src="https://img.icons8.com/color/48/000000/typescript.png" title="TypeScript" /><br />TS</td>
     <td align="center"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java" /><br />Java</td>
-    <td align="center"><img src="https://img.icons8.com/offices/48/php-logo.png" title="PHP" /><br />PHP</td>
+  
   </tr>
 </table>
 
@@ -73,20 +73,3 @@
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width="100"/>
 </a>
 
-
---- 
-## 📊 Commits Activity Graph: 
-
-![Commits](https://github-readme-activity-graph.vercel.app/graph?username=vaiteeswaran02&theme=github-dark)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaitheeswaran02&show_icons=true&theme=github_dark" width="45%" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaitheeswaran02&layout=compact&theme=github_dark" width="34%" />
-</p>
-
----
