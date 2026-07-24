@@ -71,7 +71,7 @@ TypeScript
 
 ---
 
-# 🛠 Tools I Use
+
 
 # 🛠 Tools I Use
 
@@ -96,6 +96,10 @@ Ubuntu
 <td align="center">
 <img src="https://img.icons8.com/color/48/000000/git.png" title="Git"/><br/>
 Git
+</td>
+<td align="center">
+  <img src="https://img.icons8.com/color/48/vercel.png" title="Vercel"/><br/>
+  Vercel
 </td>
 
 <td align="center">
