@@ -73,17 +73,14 @@ TypeScript
 
 # 🛠 Tools I Use
 
-<table align="center">
-<tr>
+# 🛠 Tools I Use
 
+<table align="center">
+
+<tr>
 <td align="center">
 <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="VS Code"/><br/>
 VS Code
-</td>
-
-<td align="center">
-<img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB Compass"/><br/>
-MongoDB Compass
 </td>
 
 <td align="center">
@@ -97,11 +94,6 @@ Ubuntu
 </td>
 
 <td align="center">
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL Workbench"/><br/>
-MySQL Workbench
-</td>
-
-<td align="center">
 <img src="https://img.icons8.com/color/48/000000/git.png" title="Git"/><br/>
 Git
 </td>
@@ -109,6 +101,18 @@ Git
 <td align="center">
 <img src="https://img.icons8.com/material-outlined/48/github.png" title="GitHub"/><br/>
 GitHub
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB Compass"/><br/>
+MongoDB Compass
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL Workbench"/><br/>
+MySQL Workbench
 </td>
 
 <td align="center">
@@ -125,16 +129,15 @@ DeepSeek
 <img src="https://img.icons8.com/color/48/000000/chatgpt.png" title="ChatGPT"/><br/>
 ChatGPT
 </td>
-
 <td align="center">
-<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" title="AWS"/><br/>
-AWS
+<img src="https://img.icons8.com/color/48/000000/wordpress.png" title="WordPress"/><br/>
+WordPress
 </td>
 
+
 </tr>
+
 </table>
-
-
 # 📈 Contribution Graph
 
 [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=vaitheeswaran02&theme=tokyo-night)](https://github.com/vaitheeswaran02)
