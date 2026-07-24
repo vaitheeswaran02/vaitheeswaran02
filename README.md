@@ -9,7 +9,6 @@
 🤖 Passionate about AI, Machine Learning & Full Stack Development
 </p>
 
----
 
 # 💻 Languages & Technologies
 
@@ -68,10 +67,6 @@ TypeScript
 
 </tr>
 </table>
-
----
-
-
 
 # 🛠 Tools I Use
 
@@ -142,6 +137,8 @@ WordPress
 </tr>
 
 </table>
+
+-----
 # 📈 Contribution Graph
 
 [![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=vaitheeswaran02&theme=tokyo-night)](https://github.com/vaitheeswaran02)
