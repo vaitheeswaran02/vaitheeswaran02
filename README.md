@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Vaitheeswaran</h1>
 
 <h3 align="center">
-🚀 MERN Stack Developer | IoT Enthusiast | Java Developer | Backend Developer
+🚀 MERN Stack Backend Developer | Java Developer | AI & IoT Developer
 </h3>
 
 <p align="center">
@@ -160,9 +160,4 @@ WordPress
 </p>
 
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vaitheeswaran02/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
