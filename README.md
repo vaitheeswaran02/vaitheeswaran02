@@ -159,5 +159,28 @@ WordPress
 
 </p>
 
+----------
+
+## My Progress
+
+<svg width="400" height="30" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes slide {
+        0% { stroke-dashoffset: 100; }
+        100% { stroke-dashoffset: 0; }
+      }
+      .progress { animation: slide 2s linear infinite; }
+    </style>
+  </defs>
+  
+  <rect x="10" y="10" width="380" height="10" fill="#e0e0e0" rx="5"/>
+  <rect class="progress" x="10" y="10" width="380" height="10" fill="#30a14e" rx="5" stroke-dasharray="100"/>
+</svg>
+
+### Skills
+- React, Node.js, MongoDB
+- etc...
+
 
 
