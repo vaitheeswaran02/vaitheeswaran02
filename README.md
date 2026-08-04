@@ -159,42 +159,4 @@ WordPress
 
 </p>
 
-----------
-
-## My Progress
-
-# Welcome to My Profile! 🚀
-
-<svg width="100%" height="200" viewBox="0 0 400 200" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    @keyframes slide {
-      0% { stroke-dashoffset: 100; }
-      100% { stroke-dashoffset: 0; }
-    }
-    .progress { animation: slide 2s linear infinite; }
-    
-  @keyframes moveRight {
-      0% { transform: translateX(0); }
-      100% { transform: translateX(320px); }
-    }
-    .rocket-move { animation: moveRight 3s ease-in-out infinite; }
-  </style>
-  
-  <text x="0" y="30" font-size="18" font-weight="500" fill="#333">My Development Progress</text>
-  
-  <text x="0" y="65" font-size="12" fill="#666">Learning MERN Stack</text>
-  <rect x="0" y="75" width="380" height="12" fill="#e0e0e0" rx="6"/>
-  <rect class="progress" x="0" y="75" width="380" height="12" fill="#30a14e" rx="6" stroke-dasharray="100"/>
-  
-  <text x="0" y="120" font-size="12" fill="#666">Building Projects</text>
-  <rect x="0" y="130" width="380" height="12" fill="#e0e0e0" rx="6"/>
-  <rect class="progress" x="0" y="130" width="380" height="12" fill="#378ADD" rx="6" stroke-dasharray="100" style="animation-delay: 0.3s;"/>
-  
-  <text x="0" y="170" font-size="12" fill="#666">Journey</text>
-  <g class="rocket-move">
-    <text x="0" y="185" font-size="24">🚀</text>
-  </g>
-  <text x="340" y="185" font-size="20">🎯</text>
-</svg>
-
 
