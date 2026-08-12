@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Vaitheeswaran</h1>
 
 <h3 align="center">
- MERN Stack Backend Developer | Java Developer | AI & IoT Developer
+ MERN Stack Developer | Java Developer | AI & IoT Developer
 </h3>
 
 <p align="center">
